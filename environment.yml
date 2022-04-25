@@ -1,0 +1,6 @@
+name: temp-psr
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
